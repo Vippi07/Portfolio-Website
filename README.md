@@ -1,2 +1,2 @@
-# Portfolio-Website
-About I developed this portfolio website using HTML and CSS.
+About
+I developed this portfolio website using HTML and CSS.
